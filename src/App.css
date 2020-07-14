@@ -1,3 +1,6 @@
+.Quiz {
+  padding-bottom: 25vh;
+}
 .QuizQuestion {
   display: flex;
   justify-content: center;
